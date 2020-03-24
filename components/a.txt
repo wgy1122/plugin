@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 cccccccccc
 aaaaaaa
 bbbbbbbb
-=======
-﻿hhhhhhhhhhhhhhhhhhhhhhhhhh
->>>>>>> 5c4855f954cfd639b86d0483cd6af4403188e657
+hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+ttttttttttttttttttttttttttttttttttttt
